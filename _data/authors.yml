@@ -1,0 +1,23 @@
+Kennedy:
+  name        : "Kennedy Batista"
+  bio         : "Software Engineer"
+  avatar      : "https://avatars.githubusercontent.com/u/41345670?s=400&u=d6ea685bfa59bbb80baee6ea736516eea8e93370&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/k-batista"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://br.linkedin.com/in/kennedy-batista"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+Gustavo:
+  name        : "Gustavo Cunha"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
