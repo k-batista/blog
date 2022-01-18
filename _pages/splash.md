@@ -3,11 +3,9 @@ title: "Hello, @World!"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
+  overlay_color: "#302B27"
   overlay_filter: "0.5"
 excerpt: "Sharing problems is the best way to solve them."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/splash/feat1-1.jpg
     title: "The best post"
@@ -22,9 +20,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--secondar"
   - image_path: /assets/splash/feat1-3.jpg
-    title: "Placeholder 3"
+    title: "Next Posts"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/next"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
