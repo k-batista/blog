@@ -1,10 +1,11 @@
 ---
-title: "Hello, @World!"
+title: "Hello, world!"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#dddddd"
-  overlay_filter: "0"
+  # overlay_color: "#dddddd"
+  # overlay_filter: "0"
+  overlay_image: "/assets/splash/template.jpg"
 # excerpt: "Sharing problems is the best way to solve them."
 feature_row:
   - image_path: /assets/splash/feat1-1.jpg
