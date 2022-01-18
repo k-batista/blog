@@ -3,7 +3,7 @@ title: "Hello, @World!"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#302B27"
+  overlay_image: "/assets/splash/template.jpg"
   overlay_filter: "0.5"
 excerpt: "Sharing problems is the best way to solve them."
 feature_row:
