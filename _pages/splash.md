@@ -2,6 +2,9 @@
 title: "Hello, @World!"
 layout: splash
 permalink: /
+header:
+  overlay_color: "#FFFFF"
+  overlay_filter: "0"
 excerpt: "Sharing problems is the best way to solve them."
 feature_row:
   - image_path: /assets/splash/feat1-1.jpg
